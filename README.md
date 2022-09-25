@@ -11,9 +11,9 @@ Bolgs Reference
 Louvain Algo - https://medium.com/walmartglobaltech/demystifying-louvains-algorithm-and-its-implementation-in-gpu-9a07cdd3b010
 
 Results
-1. Spectral Decomposition on FB dataset
-! [Alt text](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG)
+1. 
+! [Spectral Decomposition on FB dataset](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG)
   
-2. Spectral Decomposition on BTC dataset
-! []([https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/btc_decomp.PNG))
+2. 
+! [Spectral Decomposition on BTC dataset]([https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/btc_decomp.PNG))
 
