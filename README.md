@@ -12,8 +12,8 @@ Louvain Algo - https://medium.com/walmartglobaltech/demystifying-louvains-algori
 
 Results
 1. Spectral Decomposition on FB dataset
-  ! [](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG)
+! [Alt text](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG)
   
 2. Spectral Decomposition on BTC dataset
-  ! []([https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/btc_decomp.PNG))
+! []([https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/fbk_decomp.PNG](https://github.com/AnmolGarg98/Graph-Partion-Community-Detection/blob/main/btc_decomp.PNG))
 
